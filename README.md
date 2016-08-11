@@ -1,4 +1,4 @@
-#### UNIX Network Programming Volume2:Interprocess Communication Learning Note
+#### UNIX Network Programming Volume2:Interprocess Communications Learning Note
 
 
 * Learning note for unp-ipc Second Edition.
